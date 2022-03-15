@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/connect.png</file>
+        <file>images/disconnect.png</file>
+        <file>images/application-exit.png</file>
+        <file>images/settings.png</file>
+        <file>images/clear.png</file>
+        <file>images/Navis.jpg</file>
+        <file>images/cat_walk.png</file>
+        <file>images/64x64/cat_box.png</file>
+        <file>images/64x64/cat_cage.png</file>
+        <file>images/64x64/cat_clean.png</file>
+        <file>images/64x64/cat_drunk.png</file>
+        <file>images/64x64/cat_eyes.png</file>
+        <file>images/64x64/cat_fight.png</file>
+        <file>images/64x64/cat_fish.png</file>
+        <file>images/64x64/cat_grumpy.png</file>
+        <file>images/64x64/cat_hiss.png</file>
+        <file>images/64x64/cat_moustache.png</file>
+        <file>images/64x64/cat_poo.png</file>
+        <file>images/64x64/cat_purr.png</file>
+        <file>images/64x64/cat_slippers.png</file>
+        <file>images/64x64/cat_tied.png</file>
+        <file>images/64x64/cat_walk.png</file>
+    </qresource>
+</RCC>
